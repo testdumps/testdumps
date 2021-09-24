@@ -1,0 +1,308 @@
+backend:
+  name: github
+  branch: master # Branch to update (optional; defaults to master)
+  repo: testdumps/testdumps
+ 
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - name: "pages"
+    label: "Homepage Sections"
+    files:
+      - label: "Banner HomePage"
+        name: "banner"
+        file: "data/en/banner.yml"
+        fields:
+          - label: banner
+            name: banner
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - {label: Icon, name: icon, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image , name: bg_image, widget: image}
+              - label: button
+                name: button
+                widget: object
+                fields:
+                  - {label: Label, name: label, widget: string}
+                  - {label: enable , name: enable, widget: boolean}
+                  - {label: Link, name: link, widget: string}
+
+      - label: "About Section"
+        name: "aboutPage"
+        file: "data/en/about.yml"
+        fields:
+          - label: about
+            name: about
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - {label: Intro, name: intro, widget: markdown}
+              - label: about_item
+                name: about_item
+                widget: list
+                fields:
+                  - {label: Icon, name: icon, widget: string}
+                  - {label: Title, name: title, widget: string}
+                  - {label: Content, name: content, widget: string}
+
+      - label: "Feature"
+        name: "feature"
+        file: "data/en/feature.yml"
+        fields:
+          - label: Feature
+            name: feature
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string} 
+              - {label: Content, name: content, widget: string}
+              - {label: Image, name: bg_image, widget: image}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: feature_item
+                name: feature_item
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Icon, name: icon, widget: string}
+                  - {label: Content , name: content, widget: string}
+                  
+      - label: "Center Contact Us Button"
+        name: "cta"
+        file: "data/en/cta.yml"
+        fields:
+          - label: Center Contact Us Button
+            name: cta
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string} 
+              - {label: Content, name: content, widget: string}
+              - {label: Image, name: bg_image, widget: image}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: button
+                name: button
+                widget: object
+                fields:
+                  - {label: Label, name: label, widget: string}
+                  - {label: Link, name: link, widget: string}
+                  - {label: Enable , name: enable, widget: boolean}
+
+      - label: "Service Section"
+        name: "servicePage"
+        file: "data/en/service.yml"
+        fields:
+          - label: Service
+            name: service
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: service_item
+                name: service_item
+                widget: list
+                fields:
+                  - {label: Icon, name: icon, widget: string}
+                  - {label: Name, name: name, widget: string}
+                  - {label: Content, name: content, widget: text}
+
+      - label: "Skills"
+        name: "Skills"
+        file: "data/en/skill.yml"
+        fields:
+          - label: Skills
+            name: skill
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Sub Title, name: subtitle, widget: string}
+              - {label: Content, name: content, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: skill_item
+                name: skill_item
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Percent, name: percent, widget: string}
+
+      - label: "Portfolio"
+        name: "portfolio"
+        file: "data/en/portfolio.yml"
+        fields:
+          - label: portfolio
+            name: portfolio
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: portfolio_item
+                name: portfolio_item
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Categories, name: categories, widget: list}
+                  - {label: Content , name: content, widget: text}
+                  - {label: Link, name: link, widget: string}
+
+      - label: "Statistics"
+        name: "funfacts"
+        file: "data/en/funfacts.yml"
+        fields:
+          - label: funfacts
+            name: funfacts
+            widget: object
+            fields:
+              - {label: Image, name: bg_image, widget: image}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: counter_item
+                name: counter_item
+                widget: list
+                fields:
+                  - {label: Title, name: title, widget: string}
+                  - {label: Icon, name: icon, widget: string}
+                  - {label: Count , name: count, widget: string}
+                  
+      - label: "Team"
+        name: "teamPage"
+        file: "data/en/team.yml"
+        fields:
+          - label: Team Members
+            name: team
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: team_member
+                name: team_member
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Designation, name: designation, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Content, name: content, widget: markdown}
+                  - label: Social
+                    name: social
+                    widget: list
+                    fields:
+                     - {label: Icon, name: icon, widget: string}
+                     - {label: Link, name: link, widget: string}
+
+      - label: "Pricing"
+        name: "pricingPage"
+        file: "data/en/pricing.yml"
+        fields:
+          - label: Pricing
+            name: pricing
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: pricing_table
+                name: pricing_table
+                widget: list
+                fields:
+                  - {label: Price, name: price, widget: string}
+                  - {label: Name, name: name, widget: string}
+                  - {label: Unit, name: unit, widget: string}
+                  - {label: Services, name: services, widget: list}
+                  - label: button
+                    name: button
+                    widget: object
+                    fields:
+                     - {label: Label, name: label, widget: string}
+                     - {label: Link, name: link, widget: string}
+                     - {label: Enable , name: enable, widget: boolean}
+
+      - label: "Testimonials"
+        name: "testimonials"
+        file: "data/en/testimonial.yml"
+        fields:
+          - label: testimonial
+            name: testimonial
+            widget: object
+            fields:
+              - {label: Image, name: bg_image, widget: image}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: testimonial_item
+                name: testimonial_item
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Date, name: date, widget: string}
+                  - {label: Content , name: content, widget: text}
+                  - {label: Image, name: image, widget: image}
+
+      - label: "Contact Us Section"
+        name: "contact"
+        file: "data/en/contact.yml"
+        fields:
+          - label: contact
+            name: contact
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Sub Title, name: subtitle, widget: string}
+              - {label: Content, name: content, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - label: contact_list
+                name: contact_list
+                widget: list
+                fields:
+                  - {label: Icon, name: icon, widget: string}
+                  - {label: Info, name: info, widget: string}
+              - label: contact_form
+                name: contact_form
+                widget: object
+                fields:
+                  - {label: Enable, name: enable, widget: boolean}
+                  - {label: Name, name: name, widget: string}
+                  - {label: Email, name: email, widget: string}
+                  - {label: Subject, name: subject, widget: string}
+                  - {label: Message, name: message, widget: string}
+                  - {label: Submit, name: submit, widget: string}
+
+      - label: "Social Links"
+        name: "Social"
+        file: "data/en/social.yml"
+        fields:
+          - label: social
+            name: social
+            widget: object
+            fields:
+              - {label: Enable , name: enable, widget: boolean}
+              - label: social_item
+                name: social_item
+                widget: list
+                fields:
+                  - {label: Icon, name: icon, widget: string}
+                  - {label: Link, name: link, widget: string}
+                  - {label: Enable , name: enable, widget: boolean}
+
+
+
+  - name: "Analytics & Maps"
+    label: "Analytics"
+    files:
+      - label: "Banner HomePage"
+        name: "banner"
+        file: "data/en/banner.yml"
+        fields:
+          - label: banner
+            name: banner
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Enable , name: enable, widget: boolean}
+              - {label: Icon, name: icon, widget: string}
+              - {label: Content, name: content, widget: text}
+              - {label: Image , name: bg_image, widget: image}
+              - label: button
+                name: button
+                widget: object
+                fields:
+                  - {label: Label, name: label, widget: string}
+                  - {label: enable , name: enable, widget: boolean}
+                  - {label: Link, name: link, widget: string}
