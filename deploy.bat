@@ -1,1 +1,1 @@
-hugo -D --destination docs
+hugo -D --destination netlifypublish
