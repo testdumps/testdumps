@@ -17,6 +17,6 @@ collections:
           - {label: Image , name: image, widget: image, choose_url: true, default: "images/author.jpg" }
           - {label: Date, name: date, widget: date, required: true}
           - {label: Description, name: description, widget: string, required: true}
-        - label: Content
-          name: content
-          widget: markdown
+          - label: Content
+            name: content
+            widget: markdown
