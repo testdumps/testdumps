@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://testdumps.github.io/testdumps/"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Free Tests Dumps"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -46,20 +46,20 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Homepage"
+name = "TestDumps"
 url = ""
 weight = 1
 hasChildren = true
 
   [[menu.main]]
   parent = "Homepage"
-  name = "Homepage 1"
-  url = "homepage/home-1"
+  name = "NJ MVC Knowledge Tests"
+  url = "/tags/njmvc/"
 
   [[menu.main]]
   parent = "Homepage"
-  name = "Homepage 2"
-  url = "homepage/home-2"
+  name = "TFactor"
+  url = "/tags/tfactor/"
 
 [[menu.main]]
 name = "About"
@@ -84,17 +84,15 @@ preloader = true
 # search
 search = true
 # about author
-author = "John Doe"
+author = "Admin"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
-mobile = "+90 000 333 22"
 email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2021 Free Test Dumps"
 
 # Instagram feed
 [params.instafeed]
@@ -109,15 +107,7 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
-
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
+link = ""
 
 [[params.social]]
 icon = "ti-github"
