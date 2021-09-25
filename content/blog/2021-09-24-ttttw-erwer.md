@@ -1,14 +1,16 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-2.jpg"
-categories: 
-  - "Philosophy"
+title: NJ MVC - NJ Motor Vehicle Commission - Test 1
+description: Question and answers for MVC knowledge test series 1
+type: featured
+date: '2021-09-25 04:46'
+image: /images/uploads/post-1.jpg
+categories:
+  - MVC Test Series
 tags:
-  - "Philosophy"
-  - "Photos"
+  - NJMVC
+  - Knowledge Test
+  - Motor Vehicle Commission
+  - MVC
 ---
 
 
