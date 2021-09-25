@@ -54,7 +54,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Test Dumps"
   name = "NJ MVC Knowledge Tests"
-  url = "/tags/njmvc/"
+  url = "/categories/njmvc-knowledge-test/"
 
   [[menu.main]]
   parent = "Test Dumps"
