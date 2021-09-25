@@ -1,7 +1,7 @@
 ---
-title: NJ MVC - NJ Motor Vehicle Commission - Knowledge Test 3
-description: Question and answers for MVC knowledge test series 3
-type: featured
+title: NJ MVC - NJ Motor Vehicle Commission - Knowledge Test 6
+description: Question and answers for MVC knowledge test series 6
+type: post
 date: '2021-09-25T00:00+06:00'
 image: /images/uploads/post-1.jpg
 categories:

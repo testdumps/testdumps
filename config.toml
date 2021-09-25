@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://testdumps.github.io/testdumps/"
 languageCode = "en-us"
-title = "Free Tests Dumps"
+title = "Free Test Dumps"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -46,29 +46,29 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "TestDumps"
+name = "Test Dumps"
 url = ""
 weight = 1
 hasChildren = true
 
   [[menu.main]]
-  parent = "Homepage"
+  parent = "Test Dumps"
   name = "NJ MVC Knowledge Tests"
   url = "/tags/njmvc/"
 
   [[menu.main]]
-  parent = "Homepage"
+  parent = "Test Dumps"
   name = "TFactor"
   url = "/tags/tfactor/"
 
 [[menu.main]]
-name = "About"
-url = "about"
+name = "TFactor"
+url = "/tags/tfactor/"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "NJ MVC Knowledge Tests"
+url = "/tags/njmvc/"
 weight = 3
 
 # deult parameter
