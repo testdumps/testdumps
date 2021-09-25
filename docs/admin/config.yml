@@ -7,14 +7,16 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: "pages"
-    label: "About Sections"
+    label: "Pages"
     files:
       - label: "About Section"
         name: "aboutPage"
         file: "content/about.md"
         fields:
-          - {label: Title, name: title, widget: string}
+          - {label: Title, name: title, widget: string, required: true}
           - {label: Enable , name: enable, widget: boolean}
-          - {label: Date, name: date, widget: date}
-          - {label: Description, name: description, widget: string}
-          - {label: Content, name: content, widget: markdown}
+          - {label: Date, name: date, widget: date, required: true}
+          - {label: Description, name: description, widget: string, required: true}
+          - label: Content
+            name: content
+            widget: markdown
