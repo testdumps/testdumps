@@ -2,7 +2,7 @@
 title: NJ MVC - NJ Motor Vehicle Commission - Knowledge Test 4
 description: Question and answers for MVC knowledge test series 4
 type: featured
-date: '2021-09-24T00:00+06:00'
+date: '2021-09-10T00:00:00+06:00'
 image: /images/uploads/post-1.jpg
 categories:
   - NJMVC Knowledge Test
