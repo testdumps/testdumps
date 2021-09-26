@@ -1,7 +1,7 @@
 ---
 title: NJMVC - Motor Vehicle Commission - Knowledge Test Questions 61 to 80
 description: Question and answers for NJ MVC knowledge test 61 to 80
-type: featured
+type: post
 date: '2021-09-23T00:00:00+06:00'
 image: /images/uploads/post-1.jpg
 maincategory: NJMVC
