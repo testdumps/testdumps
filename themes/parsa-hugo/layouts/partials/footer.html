@@ -5,14 +5,33 @@
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <a href="{{site.BaseURL}}"><img src="{{site.Params.logo | absURL }}" alt="{{site.Title}}" class="img-fluid"></a>
         </div>
+        
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          {{ if .Site.Params.address }}
-          <h6>Address</h6>
-          <ul class="list-unstyled">
-            <li class="font-secondary text-dark">{{site.Params.address | markdownify }}</li>
-          </ul>
-          {{ end }}
+            <h6>Tags</h6>
+            {{- if isset site.Taxonomies "tags" }}
+            {{- if not (eq (len site.Taxonomies.tags) 0) }}
+            <ul class="list-inline tag-list">
+              {{- range $name, $items := site.Taxonomies.tags }}
+              <li><a style="background:none" href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
+              {{- end }}
+            </ul>
+            {{- end }}
+            {{- end }}
         </div>
+
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+            <h6>Categories</h6>
+            {{- if isset site.Taxonomies "categories" }}
+            {{- if not (eq (len site.Taxonomies.categories) 0) }}
+            <ul class="list-inline tag-list">
+              {{- range $name, $items := site.Taxonomies.categories }}
+              <li><a style="background:none" href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
+              {{- end }}
+            </ul>
+            {{- end }}
+            {{- end }}
+        </div>
+
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           {{ if or  .Site.Params.mobile  .Site.Params.email }}         
           <h6>Contact Info</h6>
@@ -24,9 +43,8 @@
             <li class="font-secondary text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
             {{ end }}
           </ul>
+          <br/>
           {{ end }}
-        </div>
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Follow</h6>
           <ul class="list-inline d-inline-block">
             {{ range site.Params.social }}
