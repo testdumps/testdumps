@@ -5,8 +5,6 @@ title = "Examenus | Free Questions and Answers"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 10
-# google analytics
-googleAnalytics = "" # example : UA-123-45
 
 # output
 [outputs]
@@ -67,7 +65,7 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "Free Questions and answers for multiple chouice questions from trainings and motor vehicle tests"
 # Preloader
 preloader = false
 # search
