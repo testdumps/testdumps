@@ -58,9 +58,9 @@ hasChildren = true
   name = "NJ MVC Knowledge Tests"
   url = "/categories/mvc-knowledge-test/"
 
-# deult parameter
+# deult parameter #1C344D is logo color
 [params]
-logo = "images/logo.pmg"
+logo = "images/LogoLight.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"

@@ -373,7 +373,7 @@ a.text-dark:hover {
 }
 
 .bg-secondary {
-    background: #D2DACD !important;
+    background: #EAF0F7 !important;
 }
 
 .text-primary {
@@ -458,6 +458,8 @@ textarea.form-control {
 
 .navigation {
     z-index: 9;
+    background-color: #F2F2F2;
+    display: block;
 }
 
 .headroom {
