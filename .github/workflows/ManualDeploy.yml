@@ -25,7 +25,7 @@ jobs:
            extended: true
            
       - name: Hugo Build
-        run: hugo --baseURL https://examenus.in
+        run: hugo --baseURL https://www.examenus.in
            
       - name: GitHub Pages Deploy
         uses: crazy-max/ghaction-github-pages@v2.5.0
