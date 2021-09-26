@@ -45,7 +45,7 @@ link = "plugins/search/search.js"
 # navigation
 [[menu.main]]
 name = "MVC Knowledge Tests"
-url = "/categories/njmvc-knowledge-test/"
+url = "/categories/mvc-knowledge-test/"
 
 [[menu.main]]
 name = "Categories"
@@ -56,7 +56,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Categories"
   name = "NJ MVC Knowledge Tests"
-  url = "/categories/njmvc-knowledge-test/"
+  url = "/categories/mvc-knowledge-test/"
 
 # deult parameter
 [params]
