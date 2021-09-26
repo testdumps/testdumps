@@ -46,30 +46,19 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Test Dumps"
-url = ""
+name = "MVC Knowledge Tests"
+url = "/categories/njmvc-knowledge-test/"
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
 weight = 1
 hasChildren = true
 
   [[menu.main]]
-  parent = "Test Dumps"
+  parent = "Categories"
   name = "NJ MVC Knowledge Tests"
   url = "/categories/njmvc-knowledge-test/"
-
-  [[menu.main]]
-  parent = "Test Dumps"
-  name = "TFactor"
-  url = "/tags/tfactor/"
-
-[[menu.main]]
-name = "TFactor"
-url = "/tags/tfactor/"
-weight = 2
-
-[[menu.main]]
-name = "NJ MVC Knowledge Tests"
-url = "/tags/njmvc/"
-weight = 3
 
 # deult parameter
 [params]

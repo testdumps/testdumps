@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- page-title -->
-<section class="section bg-secondary">
+<section class="section-small bg-secondary">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -13,7 +13,7 @@
 <!-- /page-title -->
 
 <!-- search result -->
-<section class="section">
+<section class="section-small">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto">
@@ -22,7 +22,7 @@
           <ul class="search-result list-unstyled" id="summary-${key}">
             <li class="border-bottom mb-4 pb-3">
               <h4><a class="text-dark" href="${link}">${title}</a></h4>
-              <p>${snippet}</p>
+              <p>${description}</p>
               ${ isset tags }<p>Tags: ${tags}</p>${ end }
               ${ isset categories }<p>Categories: ${categories}</p>${ end }
             </li>
