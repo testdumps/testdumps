@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Examenus | Free Questions and Answers</title>
-    <link>https://freetestdumps.netlify.app/</link>
-    <description>Recent content on Examenus | Free Questions and Answers</description>
+    <title>MVC Knowledge Test on Examenus | Free Questions and Answers</title>
+    <link>https://freetestdumps.netlify.app/categories/mvc-knowledge-test/</link>
+    <description>Recent content in MVC Knowledge Test on Examenus | Free Questions and Answers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 +0600</lastBuildDate><atom:link href="https://freetestdumps.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Home</title>
-      <link>https://freetestdumps.netlify.app/homepage/home-1/</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0600</pubDate>
-      
-      <guid>https://freetestdumps.netlify.app/homepage/home-1/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0600</lastBuildDate><atom:link href="https://freetestdumps.netlify.app/categories/mvc-knowledge-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NJMVC - Motor Vehicle Commission - Knowledge Test Questions 1 to 20</title>
       <link>https://freetestdumps.netlify.app/blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-1/</link>
@@ -77,42 +68,6 @@
       
       <guid>https://freetestdumps.netlify.app/blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-5/</guid>
       <description>61. To avoid highway hypnosis when driving on an expressway, it is a good practice to:  A.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://freetestdumps.netlify.app/about/</link>
-      <pubDate>Wed, 15 May 2019 08:46:10 +0000</pubDate>
-      
-      <guid>https://freetestdumps.netlify.app/about/</guid>
-      <description>test tg</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://freetestdumps.netlify.app/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://freetestdumps.netlify.app/contact/</guid>
-      <description>Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.</description>
-    </item>
-    
-    <item>
-      <title>Homepage 2</title>
-      <link>https://freetestdumps.netlify.app/homepage/home-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://freetestdumps.netlify.app/homepage/home-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search Result</title>
-      <link>https://freetestdumps.netlify.app/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://freetestdumps.netlify.app/search/</guid>
-      <description></description>
     </item>
     
   </channel>
