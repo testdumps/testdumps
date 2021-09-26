@@ -55,5 +55,6 @@ collections:
         }
       - { label: 'Cover Image', name: 'image', widget: 'image', required: false}
       - { label: 'Categories', name: 'categories', widget: 'list'}
+      - { label: 'Main Category', name: 'maincategory', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }

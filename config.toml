@@ -1,10 +1,10 @@
 # default config
 baseurl = "https://testdumps.github.io/testdumps/"
 languageCode = "en-us"
-title = "Free Test Dumps"
+title = "Examenus | Free Questions and Answers"
 theme = "parsa-hugo"
 summaryLength = "10"
-paginate = 6
+paginate = 10
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
@@ -69,19 +69,19 @@ layout = "1"
 # Meta data
 description = "This is meta description"
 # Preloader
-preloader = true
+preloader = false
 # search
 search = true
 # about author
 author = "Admin"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+author_image = ""
+bio = ""
 # Contact info
 email = "exmaple@ymail.com"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Copyright &copy; 2021 Free Test Dumps"
+copyright = "Copyright &copy; 2021 Examenus.in"
 
 # Instagram feed
 [params.instafeed]
