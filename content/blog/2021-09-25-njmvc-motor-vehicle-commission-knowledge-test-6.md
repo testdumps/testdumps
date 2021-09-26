@@ -90,8 +90,8 @@ tags:
 ###### 110. When your license is returned to you after suspension for points (or after completing a DMV Driver Improvement Program, you will be on probation for:
 1.  A.  two years
 2.  B.  one year
-3.  C.  6months
-4.  D.  9months
+3.  C.  6 months
+4.  D.  9 months
 
 > Answer : B.  one year
 
@@ -160,9 +160,9 @@ tags:
 > Answer : D.  all of the above
 
 ###### 120. Any change of address must be reported to the Division of Motor Vehicle Services within what time period?
-1.  A.  l week
+1.  A.  1 week
 2.  B.  6 weeks
 3.  C.  2 months
 4.  D.  2 weeks
 
-> Answer : A.  l week
+> Answer : A.  1 week
