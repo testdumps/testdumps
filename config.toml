@@ -60,7 +60,7 @@ hasChildren = true
 
 # deult parameter
 [params]
-logo = "images/logo.jpeg"
+logo = "images/logo.pmg"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
