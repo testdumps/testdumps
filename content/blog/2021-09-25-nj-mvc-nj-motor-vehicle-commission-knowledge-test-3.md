@@ -4,9 +4,9 @@ description: Question and answers for MVC knowledge test series 3
 type: featured
 date: '2021-09-10T00:00:00+06:00'
 image: /images/uploads/post-1.jpg
-maincategory: NJMVC2
 categories:
   - NJMVC Knowledge Test
+maincategory: NJMVC
 tags:
   - NJMVC
   - Knowledge Test
