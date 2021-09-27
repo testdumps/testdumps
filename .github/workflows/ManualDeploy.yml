@@ -38,6 +38,6 @@ jobs:
 
       - uses: DamianReeves/write-file-action@v1.0
         with:
-          path: ${{ env.home}}/CNAME
+          path: CNAME
           contents: www.examenus.in
           write-mode: overwrite
