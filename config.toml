@@ -44,8 +44,8 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "MVC Knowledge Tests"
-url = "/categories/mvc-knowledge-test/"
+name = "Quiz"
+url = "/quiz/"
 
 [[menu.main]]
 name = "Categories"
@@ -55,8 +55,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Categories"
-  name = "NJ MVC Knowledge Tests"
-  url = "/categories/mvc-knowledge-test/"
+  name = "NJ DMV Knowledge Tests"
+  url = "/categories/DMV-knowledge-test/"
 
 # deult parameter #1C344D is logo color
 [params]

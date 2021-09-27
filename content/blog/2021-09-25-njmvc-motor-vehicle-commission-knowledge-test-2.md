@@ -1,17 +1,17 @@
 ---
-title: NJMVC - Motor Vehicle Commission - Knowledge Test Questions 21 to 40
-description: Question and answers for NJ MVC knowledge test 21 to 40
+title: NJDMV - Motor Vehicle Commission - Knowledge Test Questions 21 to 40
+description: Question and answers for NJ DMV knowledge test 21 to 40
 type: post
 date: '2021-09-23T00:00:00+06:00'
 image: /images/uploads/post-1.jpg
-maincategory: NJMVC
+maincategory: NJDMV
 categories:
-  - MVC Knowledge Test
+  - DMV Knowledge Test
 tags:
-  - NJMVC
+  - NJDMV
   - Knowledge Test
   - Motor Vehicle Commission
-  - MVC
+  - DMV
 ---
 
 

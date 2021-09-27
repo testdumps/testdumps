@@ -1,17 +1,17 @@
 ---
-title: NJMVC - Motor Vehicle Commission - Knowledge Test Questions 41 to 60
-description: Question and answers for NJ MVC knowledge test 41 to 60
+title: NJDMV - Motor Vehicle Commission - Knowledge Test Questions 41 to 60
+description: Question and answers for NJ DMV knowledge test 41 to 60
 type: featured
 date: '2021-09-23T00:00:00+06:00'
 image: /images/uploads/post-1.jpg
-maincategory: NJMVC
+maincategory: NJDMV
 categories:
-  - MVC Knowledge Test
+  - DMV Knowledge Test
 tags:
-  - NJMVC
+  - NJDMV
   - Knowledge Test
   - Motor Vehicle Commission
-  - MVC
+  - DMV
 ---
 
 ###### 41. If a person gets drunk in your home and has a motor vehicle accident after leaving your home,you could:
