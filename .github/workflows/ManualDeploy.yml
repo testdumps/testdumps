@@ -34,3 +34,10 @@ jobs:
           build_dir: public
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          
+
+      - uses: DamianReeves/write-file-action@v1.0
+        with:
+          path: CNAME
+          contents: www.examenus.in
+          write-mode: overwrite
