@@ -66,7 +66,7 @@ collections:
     description: >
       The description is a great place for tone setting, high level information, and editing
       guidelines that are specific to a collection.
-    folder: 'content/blog'
+    folder: 'content/quiz'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
@@ -89,7 +89,7 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Description', name: 'description', widget: 'string'}
-      - { label: 'Type', name: 'type', widget: 'string', default: 'post', hint: 'acceptable values are post or featured. featured will put the post on homepage' }
+      - { label: 'Type', name: 'type', widget: 'string', default: 'quiz', hint: 'acceptable values are quiz or featured. featured will put the post on homepage' }
       - { 
           label: 'Publish Date', name: 'date', widget: 'datetime',
           date_format: 'YYYY-MM-DD', time_format: 'HH:mm', format: 'YYYY-MM-DDT00:00:00+06:00',
