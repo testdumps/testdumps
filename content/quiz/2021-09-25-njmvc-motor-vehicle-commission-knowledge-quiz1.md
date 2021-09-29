@@ -16,28 +16,24 @@ tags:
 
 {{<quizdown>}}
 	---
-	primaryColor: steelblue
-	shuffleQuestions: true
-	shuffleAnswers: false
+	primaryColor: steelblue 
 	---
 
-###### A triangular shaped sign is a:
-> Answer : A. yield sign
-
-1. [x] A. yield sign
-1. [ ] B. warning sign
-1. [ ] C. railroad sign
-1. [ ] D. stop sign
+###### A triangular shaped sign is a  
+1. [x] yield sign
+1. [ ] warning sign
+1. [ ] railroad sign
+1. [ ] top sign
 
 
-###### A holder of a student permit must have the following with them while driving:
+###### A holder of a student permit must have the following with them while driving
 1. [ ] A. Adult supervising driver in the front Seat
 1. [ ] B. Their student permit
 1. [ ] C. Registration and insurance ID card
 1. [x] D. All of the above
  
 
-###### Effective July 1, 2004, motorists in New Jersey may not use a hand-held wireless telephone while driving except for the following instances:
+###### Effective July 1, 2004, motorists in New Jersey may not use a hand-held wireless telephone while driving except for the following instances
 1. [ ] A. Fire
 1. [ ] B. Traffic accidents
 1. [ ] C. Medical emergency
@@ -45,7 +41,7 @@ tags:
 
 > Answer : D. All of the above
 
-###### When approaching or nearing an uncontrolled intersection you should:
+###### When approaching or nearing an uncontrolled intersection you should
 1. [ ] A. speed up to clear intersection quickly
 1. [ ] B. slow down and look straight ahead
 1. [x] C. reduce speed and be ready to stop
@@ -53,7 +49,7 @@ tags:
 
 > Answer : C. reduce speed and be ready to stop
 
-###### When the pavement is marked with 2 centerlines, 1 solid and 1 broken:
+###### When the pavement is marked with 2 centerlines, 1 solid and 1 broken
 1. [x] A. passing is permitted only on the side with the broken line
 1. [ ] B. passing is permitted on either side
 1. [ ] C. passing is permitted on both sides, but only when the road is clear
@@ -61,7 +57,7 @@ tags:
 
 > Answer : A. passing is permitted only on the side with the broken line
 
-###### Road surfaces are most slippery:
+###### Road surfaces are most slippery
 1. [ ] A. during very hot, humid weather
 1. [ ] B. during very cold, dry weather
 1. [ ] C. After a very heavy rainfall
@@ -69,7 +65,7 @@ tags:
 
 > Answer : D. during the first few minutes of a rainfall
 
-###### New Jersey law allows up to 3 points to be subtracted from your driving record if you have no moving traffic violation:
+###### New Jersey law allows up to 3 points to be subtracted from your driving record if you have no moving traffic violation
 1. [ ] A. for 2 years from the date of the last violation
 1. [ ] B. for 6 months from the date of the last violation
 1. [x] C. for 1 year from the date of the last violation
@@ -77,7 +73,7 @@ tags:
 
 > Answer : C. for 1 year from the date of the last violation
 
-###### If the driver of a large truck or bus cannot see you in his rearview mirrors, you are:
+###### If the driver of a large truck or bus cannot see you in his rearview mirrors, you are
 1. [x] A. in the truck’s no-zone or blind spot
 1. [ ] B. Driving to slowly
 1. [ ] C. Uninteresting to him
@@ -93,7 +89,7 @@ tags:
 
 > Answer : D. stop behind the line for a traffic sign or light
 
-###### The best way to take a curve is:
+###### The best way to take a curve is
 1. [ ] A. speed up while in the curve
 1. [ ] B. lean in the direction of the curve
 1. [x] C. slow down before entering the curve
@@ -109,7 +105,7 @@ tags:
 
 > Answer : C. stop before entering the intersection, if you can safely do so
 
-###### A twelve-ounce can of beer has as much alcohol in it as:
+###### A twelve-ounce can of beer has as much alcohol in it as
 1. [ ] A. A bottle of rum
 1. [ ] B. 2 martinis
 1. [x] C. 1 1⁄2 ounces of 86 proof whiskey
@@ -117,7 +113,7 @@ tags:
 
 > Answer : C. 1 1⁄2 ounces of 86 proof whiskey
 
-###### When approaching a railroad crossing with flashing lights you must:
+###### When approaching a railroad crossing with flashing lights you must
 1. [x] A. stop at the crossing
 1. [ ] B. slow down and look both ways
 1. [ ] C. slow down, blow your horn and proceed with caution
@@ -125,7 +121,7 @@ tags:
 
 > Answer : A. stop at the crossing
 
-###### To safely share the road with large trucks and buses, you must know:
+###### To safely share the road with large trucks and buses, you must know
 1. [ ] A. The horsepower rating of your vehicle.
 1. [ ] B. The history of the trucking industry.
 1. [x] C. Limitations of these vehicles regarding visibility, stopping distances required and maneuverability.
@@ -133,7 +129,7 @@ tags:
 
 > Answer : C. Limitations of these vehicles regarding visibility, stopping distances required and maneuverability.
 
-###### Getting a drivers license illegally may result in:
+###### Getting a drivers license illegally may result in
 1. [ ] A. imprisonment of 6 months
 1. [x] B. A fine of $200 to $500 and/or imprisonment of 30-90 days
 1. [ ] C. A court trial
@@ -141,7 +137,7 @@ tags:
 
 > Answer : B. A fine of $200 to $500 and/or imprisonment of 30-90 days
 
-###### In adverse weather conditions, a truck takes longer to stop. This can be as much as:
+###### In adverse weather conditions, a truck takes longer to stop. This can be as much as
 1. [ ] A. 70% more
 1. [x] B. 25% more
 1. [ ] C. 50% more
@@ -157,7 +153,7 @@ tags:
 
 > Answer : D. All of the above
 
-###### A supervising driver for the holder of a validated GDL Permit must meet which of the following requirements:
+###### A supervising driver for the holder of a validated GDL Permit must meet which of the following requirements
 1. [ ] A. Must be 21 years or older
 1. [ ] B. Must be a New Jersey licensed driver
 1. [ ] C. Must be licensed for a minimum of 3 years
@@ -173,7 +169,7 @@ tags:
 
 > Answer : B. No restrictions apply
 
-###### The holder of a validated GDL Special Learner’s permit must not drive between the hours of:
+###### The holder of a validated GDL Special Learner’s permit must not drive between the hours of
 1. [ ] A. 11:01PM and 6:00AM
 1. [x] B. 11:01PM and 5:00AM
 1. [ ] C. No restrictions apply

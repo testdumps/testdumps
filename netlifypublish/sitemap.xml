@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://freetestdumps.netlify.app/categories/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/tags/dmv/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/categories/dmv-knowledge-test/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
     <loc>https://freetestdumps.netlify.app/</loc>
-    <lastmod>2021-09-24T00:00:00+06:00</lastmod>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/tags/knowledge-test/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/tags/motor-vehicle-commission/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/tags/njdmv/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz1/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/quiz/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>https://freetestdumps.netlify.app/tags/</loc>
+    <lastmod>2021-09-27T00:00:00+06:00</lastmod>
   </url><url>
     <loc>https://freetestdumps.netlify.app/homepage/home-1/</loc>
     <lastmod>2021-09-24T00:00:00+06:00</lastmod>
@@ -12,24 +39,6 @@
     <lastmod>2021-09-24T00:00:00+06:00</lastmod>
   </url><url>
     <loc>https://freetestdumps.netlify.app/blog/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/categories/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/tags/dmv/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/categories/dmv-knowledge-test/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/tags/knowledge-test/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/tags/motor-vehicle-commission/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/tags/njdmv/</loc>
     <lastmod>2021-09-23T00:00:00+06:00</lastmod>
   </url><url>
     <loc>https://freetestdumps.netlify.app/blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-1/</loc>
@@ -51,15 +60,6 @@
     <lastmod>2021-09-23T00:00:00+06:00</lastmod>
   </url><url>
     <loc>https://freetestdumps.netlify.app/blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-5/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz1/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/quiz/</loc>
-    <lastmod>2021-09-23T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>https://freetestdumps.netlify.app/tags/</loc>
     <lastmod>2021-09-23T00:00:00+06:00</lastmod>
   </url><url>
     <loc>https://freetestdumps.netlify.app/about/</loc>
