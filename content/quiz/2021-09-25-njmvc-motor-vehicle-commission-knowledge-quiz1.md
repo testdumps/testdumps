@@ -1,12 +1,12 @@
 ---
 title: NJDMV - Motor Vehicle Commission - Knowledge Test Quiz 1
 description: Question and answers for NJ DMV knowledge test Quiz 1
-type: post
-date: '2021-09-23T00:00:00+06:00'
+type: quiz
+date: '2021-09-27T00:00:00+06:00'
 image: /images/uploads/post-1.jpg
-maincategory: NJDMV
 categories:
   - DMV Knowledge Test
+maincategory: NJDMV
 tags:
   - NJDMV
   - Knowledge Test
