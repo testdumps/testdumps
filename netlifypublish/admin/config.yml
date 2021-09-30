@@ -48,7 +48,7 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Description', name: 'description', widget: 'string'}
-      - { label: 'Type', name: 'type', widget: 'string', default: 'post', hint: 'acceptable values are post or featured. featured will put the post on homepage' }
+      - { label: 'Type', name: 'type', widget: 'select', default: 'quiz', options: ["post", "featured", "quiz"], hint: 'acceptable values are quiz or featured. featured will put the post on homepage' }
       - { 
           label: 'Publish Date', name: 'date', widget: 'datetime',
           date_format: 'YYYY-MM-DD', time_format: 'HH:mm', format: 'YYYY-MM-DDT00:00:00+06:00',
@@ -89,7 +89,7 @@ collections:
     fields: # The fields each document in this collection have
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Description', name: 'description', widget: 'string'}
-      - { label: 'Type', name: 'type', widget: 'string', default: 'quiz', hint: 'acceptable values are quiz or featured. featured will put the post on homepage' }
+      - { label: 'Type', name: 'type', widget: 'select', default: 'quiz', options: ["post", "featured", "quiz"], hint: 'acceptable values are quiz or featured. featured will put the post on homepage' }
       - { 
           label: 'Publish Date', name: 'date', widget: 'datetime',
           date_format: 'YYYY-MM-DD', time_format: 'HH:mm', format: 'YYYY-MM-DDT00:00:00+06:00',
