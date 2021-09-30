@@ -20,7 +20,7 @@
     dots: false,
     speed: 300,
     autoplay: true,
-    arrows: true,
+    arrows: false,
     slidesToShow: 4,
     slidesToScroll: 1,
     responsive: [{
