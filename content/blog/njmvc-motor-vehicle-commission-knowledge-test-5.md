@@ -14,9 +14,9 @@ tags:
   - DMV
 ---
 
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-6" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-4" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-6" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-4" >}}Previous{{</prevbutton >}}
 
 
 ###### 81. In the event of a crash or sudden stop, use of seat belts may:
@@ -194,6 +194,6 @@ tags:
 > Answer : D.  all of the above
 
 
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-6" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-4" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-6" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-4" >}}Previous{{</prevbutton >}}

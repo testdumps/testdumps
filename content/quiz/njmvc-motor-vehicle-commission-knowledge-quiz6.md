@@ -14,9 +14,9 @@ tags:
   - DMV
 ---
 
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-6" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-6" >}}Show Qustions & Answers{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Previous{{</prevbutton >}}
 
 
 {{<quizdown>}}
@@ -179,7 +179,7 @@ tags:
 
 
 {{</quizdown >}}
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-6" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-6" >}}Show Qustions & Answers{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz5" >}}Previous{{</prevbutton >}}
 

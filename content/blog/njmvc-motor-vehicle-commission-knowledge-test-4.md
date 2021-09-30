@@ -14,9 +14,9 @@ tags:
   - DMV
 ---
 
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-5" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz4" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-3" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-5" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz4" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-3" >}}Previous{{</prevbutton >}}
 
 ###### 61. To avoid highway hypnosis when driving on an expressway, it is a good practice to:
 1.  A.  look straight ahead to the side
@@ -180,6 +180,6 @@ tags:
 > Answer : A.  you must stop
 
 
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-5" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz4" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-3" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-5" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz4" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-3" >}}Previous{{</prevbutton >}}
