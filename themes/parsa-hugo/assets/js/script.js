@@ -18,7 +18,7 @@
 
   $('.featured-post-slider').slick({
     dots: false,
-    speed: 300,
+    speed: 100,
     autoplay: true,
     arrows: false,
     slidesToShow: 4,
