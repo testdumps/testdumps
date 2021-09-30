@@ -13,6 +13,9 @@ tags:
   - Motor Vehicle Commission
   - DMV
 ---
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-4" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz3" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-2" >}}Previous{{</prevbutton >}}
 
 ###### 41. If a person gets drunk in your home and has a motor vehicle accident after leaving your home,you could:
 1.  A. be charged with a crime
@@ -173,3 +176,7 @@ tags:
 4.  D.  2 weeks
 
 > Answer : A.  1 week
+
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-4" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz3" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-2" >}}Previous{{</prevbutton >}}

@@ -14,6 +14,11 @@ tags:
   - DMV
 ---
 
+
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-2" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz1" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-7" >}}Previous{{</prevbutton >}}
+
 ###### 1. A triangular shaped sign is a:
 1.  A. yield sign
 2.  B. warning sign
@@ -173,3 +178,8 @@ tags:
 4.  D. 12:01AM and 5:00AM
 
 > Answer : B. 11:01PM and 5:00AM
+
+
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-2" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz1" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-7" >}}Previous{{</prevbutton >}}

@@ -1,0 +1,7 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div class='nextbutton'> 
+{{ $pathNext :=  .Get "linksrc" }}
+{{ $linktext :=  .Get "linkText" }}
+  {{.Inner}}
+  <a  class="btn btn-primary" href="../{{$pathNext}}">Next</a>
+</div>

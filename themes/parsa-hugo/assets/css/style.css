@@ -127,17 +127,17 @@ h6,
 }
 
 .btn-primary {
-    background: #ff6f00;
+    background: #1C344D;
     color: #fff;
     border: 0;
 }
 
 .btn-primary:active {
-    background: #ff6f00 !important;
+    background: #4577ac !important;
 }
 
 .btn-primary:hover {
-    background: #ff8c33;
+    background: #4577ac;
 }
 
 .btn-outline-light {
@@ -157,8 +157,13 @@ h6,
     border-color: #fff;
 }
 
+.nextbutton{
+    float: right;
+    margin-right: 5px;
+}
+
 .btn-transparent {
-    color: #ff6f00;
+    color: #335a83;
     border: 0;
 }
 

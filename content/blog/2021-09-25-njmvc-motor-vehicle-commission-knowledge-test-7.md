@@ -14,6 +14,10 @@ tags:
   - DMV
 ---
 
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-1" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-6" >}}Previous{{</prevbutton >}}
+
 
 ###### 121. To maintain a proper following distance when driving, you should stay at least:
 1.  A.  3/4 of a second behind the vehicle in front of you
@@ -30,3 +34,7 @@ tags:
 4.  D.  both student and instructor
 
 > Answer : D.  both student and instructor
+
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-1" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-6" >}}Previous{{</prevbutton >}}

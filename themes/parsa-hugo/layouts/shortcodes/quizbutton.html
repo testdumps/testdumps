@@ -1,0 +1,5 @@
+{{ $_hugo_config := `{ "version": 1 }` }} 
+{{ $pathNext :=  .Get "linksrc" }}
+{{ $linktext :=  .Get "linkText" }}
+ 
+  <a  class="btn btn-outline" href="{{$pathNext}}">{{.Inner}}</a>

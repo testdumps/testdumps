@@ -15,6 +15,11 @@ tags:
 ---
 
 
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-3" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-1" >}}Previous{{</prevbutton >}}
+
+
 ###### 21. New Jersey law requires that a child must be seated in a child restraint device while riding in a car if:
 1.  A. The child is under 5 years of age and riding in the front seat
 2.  B. The child is under 18 months of age and is riding in the front seat
@@ -174,3 +179,8 @@ tags:
 4.  D. No restrictions apply
 
 > Answer : B. 5:01 AM to midnight
+
+
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-3" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-1" >}}Previous{{</prevbutton >}}

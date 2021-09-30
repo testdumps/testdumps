@@ -14,16 +14,22 @@ tags:
   - DMV
 ---
 
+
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-1" >}}Show Qustions & Answers{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Previous{{</prevbutton >}}
+
+
 {{<quizdown>}}
 	---
 	primaryColor: steelblue 
 	---
 
 ###### A triangular shaped sign is a  
-1. [x] yield sign
-1. [ ] warning sign
-1. [ ] railroad sign
-1. [ ] top sign
+1. [x] A. yield sign
+1. [ ] B. warning sign
+1. [ ] C. railroad sign
+1. [ ] D. top sign
 
 
 ###### A holder of a student permit must have the following with them while driving
@@ -178,3 +184,7 @@ tags:
 > Answer : B. 11:01PM and 5:00AM
 
 {{</quizdown >}}
+
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz3" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../blog/2021-09-25-njmvc-motor-vehicle-commission-knowledge-test-2" >}}Show Qustions & Answers{{</quizbutton >}}
+{{<prevbutton linksrc="2021-09-25-njmvc-motor-vehicle-commission-knowledge-quiz1" >}}Previous{{</prevbutton >}}
