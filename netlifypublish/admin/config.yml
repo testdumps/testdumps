@@ -26,7 +26,7 @@ collections:
       The description is a great place for tone setting, high level information, and editing
       guidelines that are specific to a collection.
     folder: 'content/blog'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
     view_filters:
@@ -67,7 +67,7 @@ collections:
       The description is a great place for tone setting, high level information, and editing
       guidelines that are specific to a collection.
     folder: 'content/quiz'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     create: true # Allow users to create new documents in this collection
     view_filters:

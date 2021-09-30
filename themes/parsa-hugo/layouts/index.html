@@ -54,11 +54,11 @@
     </div>
 </section>
 {{ end }}
-
 <!-- blog post -->
+ {{ $include := slice "post" "quiz"}}
 <section class="section">
     <div class="container">
-        {{ $paginator := .Paginate (where site.RegularPages "Type" "post") }} {{ if eq site.Params.layout "1" }}
+        {{ $paginator := .Paginate (where site.RegularPages "Type" "in" $include) }} {{ if eq site.Params.layout "1" }}
         <div class="row masonry-container">
             {{ range $paginator.Pages }}
             <div class="col-lg-4 col-sm-6 mb-5">
@@ -76,7 +76,7 @@
         {{ else if (eq site.Params.layout "2")}}
 
         <div class="row">
-            {{ range $i,$p := (where $paginator.Pages "Type" "post") }}
+            {{ range $i,$p := (where $paginator.Pages "Type" in $include) }}
             <div class="col-12 mb-100">
                 <article data-file="{{.Permalink}}" data-target="article" class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">
                     <div class="post-image">
