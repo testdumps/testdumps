@@ -1,12 +1,12 @@
 ---
 title: NJDMV - Motor Vehicle Commission - Knowledge Test Questions 101 to 120
 description: Question and answers for NJ DMV knowledge test 101 to 120
-type: post
+type: featured
 date: '2021-09-23T00:00:00+06:00'
 image: /images/uploads/post-1.jpg
-maincategory: NJDMV
 categories:
   - DMV Knowledge Test
+maincategory: NJDMV
 tags:
   - NJDMV
   - Knowledge Test
