@@ -20,7 +20,7 @@
     dots: false,
     speed: 300,
     autoplay: true,
-    arrows: false,
+    arrows: true,
     slidesToShow: 4,
     slidesToScroll: 1,
     responsive: [{
@@ -53,59 +53,59 @@
   }, 500);
 
 
-  // instafeed
-  if (($('#instafeed').length) !== 0) {
-    var accessToken = $('#instafeed').attr('data-accessToken');
-    var userFeed = new Instafeed({
-      get: 'user',
-      resolution: 'low_resolution',
-      accessToken: accessToken,
-      template: '<a class="instagram-post" href="{{link}}" target="_blank"><img class="img-fluid w-100" src="{{image}}" alt="instagram-image"></a>'
-    });
-    userFeed.run();
-  }
+  // // instafeed
+  // if (($('#instafeed').length) !== 0) {
+  //   var accessToken = $('#instafeed').attr('data-accessToken');
+  //   var userFeed = new Instafeed({
+  //     get: 'user',
+  //     resolution: 'low_resolution',
+  //     accessToken: accessToken,
+  //     template: '<a class="instagram-post" href="{{link}}" target="_blank"><img class="img-fluid w-100" src="{{image}}" alt="instagram-image"></a>'
+  //   });
+  //   userFeed.run();
+  // }
 
-  setTimeout(function () {
-    $('.instagram-slider').slick({
-      dots: false,
-      speed: 300,
-      autoplay: true,
-      arrows: false,
-      slidesToShow: 6,
-      slidesToScroll: 1,
-      responsive: [{
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 4
-          }
-        },
-        {
-          breakpoint: 600,
-          settings: {
-            slidesToShow: 3
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 2
-          }
-        }
-      ]
-    });
-  }, 1500);
+  // setTimeout(function () {
+  //   $('.instagram-slider').slick({
+  //     dots: false,
+  //     speed: 300,
+  //     autoplay: true,
+  //     arrows: false,
+  //     slidesToShow: 6,
+  //     slidesToScroll: 1,
+  //     responsive: [{
+  //         breakpoint: 1024,
+  //         settings: {
+  //           slidesToShow: 4
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 600,
+  //         settings: {
+  //           slidesToShow: 3
+  //         }
+  //       },
+  //       {
+  //         breakpoint: 480,
+  //         settings: {
+  //           slidesToShow: 2
+  //         }
+  //       }
+  //     ]
+  //   });
+  // }, 1500);
 
   // article reading time
-  $('article').each(function () {
+  // $('article').each(function () {
 
-    let _this = $(this);
+  //   let _this = $(this);
 
-    _this.readingTime({
-      readingTimeTarget: _this.find('.eta'),
-      remotePath: _this.attr('data-file'),
-      remoteTarget: _this.attr('data-target')
-    });
-  });
+  //   _this.readingTime({
+  //     readingTimeTarget: _this.find('.eta'),
+  //     remotePath: _this.attr('data-file'),
+  //     remoteTarget: _this.attr('data-target')
+  //   });
+  // });
 
 
 })(jQuery);
