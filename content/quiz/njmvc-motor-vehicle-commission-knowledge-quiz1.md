@@ -15,10 +15,10 @@ tags:
 ---
 
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-1" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Previous{{</prevbutton >}}
 
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Next{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Previous{{</prevbutton >}}
+{{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-1" >}}Show Qustions & Answers{{</quizbutton >}}
 
 {{<quizdown>}}
 	---
@@ -185,6 +185,6 @@ tags:
 
 {{</quizdown >}}
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz3" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-2" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz1" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Next{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz7" >}}Previous{{</prevbutton >}}
+{{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-1" >}}Show Qustions & Answers{{</quizbutton >}}
