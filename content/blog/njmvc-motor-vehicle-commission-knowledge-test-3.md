@@ -13,9 +13,9 @@ tags:
   - Motor Vehicle Commission
   - DMV
 ---
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-4" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz3" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-2" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-4/" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz3/" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-2/" >}}Previous{{</prevbutton >}}
 
 ###### 41. If a person gets drunk in your home and has a motor vehicle accident after leaving your home,you could:
 1.  A. be charged with a crime
@@ -177,6 +177,6 @@ tags:
 
 > Answer : A.  1 week
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-4" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz3" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-2" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-4/" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz3/" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-2/" >}}Previous{{</prevbutton >}}

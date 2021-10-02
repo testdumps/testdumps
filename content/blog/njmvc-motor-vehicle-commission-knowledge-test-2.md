@@ -15,9 +15,9 @@ tags:
 ---
 
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-3" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-1" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-3/" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz2/" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-1/" >}}Previous{{</prevbutton >}}
 
 
 ###### 21. New Jersey law requires that a child must be seated in a child restraint device while riding in a car if:
@@ -181,6 +181,6 @@ tags:
 > Answer : B. 5:01 AM to midnight
 
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-3" >}}Next{{</prevbutton >}}
-{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz2" >}}Open In Quiz Mode{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-1" >}}Previous{{</prevbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-3/" >}}Next{{</prevbutton >}}
+{{<quizbutton linksrc="../../quiz/njmvc-motor-vehicle-commission-knowledge-quiz2/" >}}Open In Quiz Mode{{</quizbutton >}}
+{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-test-1/" >}}Previous{{</prevbutton >}}
