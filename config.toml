@@ -5,6 +5,7 @@ title = "Examenus | Free Questions and Answers"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 10
+enableRobotsTXT = true
 
 # output
 [outputs]
