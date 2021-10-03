@@ -3,7 +3,7 @@ title: NJDMV - Motor Vehicle Commission - Knowledge Test Questions 121 to 140
 description: Question and answers for NJ DMV knowledge test 121 to 140
 type: featured
 date: '2021-09-23T00:00:00+06:00'
-image: /images/uploads/post-1.jpg
+image: /images/uploads/post-1.webp
 maincategory: NJDMV
 categories:
   - DMV Knowledge Test
