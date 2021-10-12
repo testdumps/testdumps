@@ -1,0 +1,1 @@
+hugo -D --destination E:\Hugo\Production\testdumps --baseURL https://examenus.in

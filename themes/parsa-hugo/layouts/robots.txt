@@ -4,4 +4,4 @@ Disallow: /admin/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.examenus.in/sitemap.xml
+Sitemap: https://examenus.in/sitemap.xml

@@ -1,1 +1,0 @@
-hugo -D --destination netlifypublish
