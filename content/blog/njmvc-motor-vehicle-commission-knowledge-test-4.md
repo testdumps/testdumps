@@ -3,7 +3,7 @@ title: NJDMV - Motor Vehicle Commission - Knowledge Test Questions 61 to 80
 description: Question and answers for NJ DMV knowledge test 61 to 80
 type: post
 date: 2021-09-23T00:00:00+06:00
-image: /images/uploads/20211016_023413_0000.webp
+image: /images/uploads/20211016_234127_0001.webp
 categories:
   - DMV Knowledge Test
 maincategory: NJDMV
