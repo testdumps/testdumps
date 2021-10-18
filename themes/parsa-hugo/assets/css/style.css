@@ -175,12 +175,12 @@ body {
 }
 
 ::-moz-selection {
-    background: #ff8c33;
+    background: #166acf;
     color: #fff;
 }
 
 ::selection {
-    background: #ff8c33;
+    background: #166acf;
     color: #fff;
 }
 
@@ -216,7 +216,7 @@ body {
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #ff6f00;
+    background: #166acf;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -239,7 +239,7 @@ body {
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #ff6f00;
+    background: #166acf;
     border-radius: 50%;
 }
 
@@ -302,11 +302,11 @@ select:focus {
 }
 
 a:hover {
-    color: #ff6f00;
+    color: #166acf;
 }
 
 a.text-dark:hover {
-    color: #ff6f00 !important;
+    color: #166acf !important;
 }
 
 .slick-slide {
@@ -376,11 +376,16 @@ a.text-dark:hover {
 }
 
 .bg-primary {
-    background: #ff6f00 !important;
+    background: #166acf !important;
 }
 
 .bg-secondary {
-    background: #EAF0F7 !important;
+    background: #166acf !important;
+    background-image: url("./images/bgr.webp");
+}
+
+.text-light h4{
+    color: #F2F2F2;
 }
 
 .text-primary {
