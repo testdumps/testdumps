@@ -380,10 +380,18 @@ a.text-dark:hover {
 }
 
 .bg-secondary {
-    background: #166acf !important;
-    background-image: url("./images/bgr.webp");
+    background-color: #2a129b !important;
+    background-image: url("../images/bgr.webp");
+    background-repeat: no-repeat, repeat;
+    background-position: right top;
+    color: #edeef0;
 }
-
+.bg-secondary h6{
+    color: #ababab;
+}
+.bg-secondary ul li a{
+    color: #ababab;
+}
 .text-light h4{
     color: #F2F2F2;
 }
