@@ -74,11 +74,12 @@ preloader = false
 # search
 search = true
 # about author
+showauthor = false
 author = "Admin"
 author_image = ""
 bio = ""
 # Contact info
-email = "exmaple@ymail.com"
+email = "contact@examenus.in"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
