@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: examenus.in
+Token: 609ab902e091230451d007b785cdd2a3dc7c44d638c98058ef2a689524fa2309
