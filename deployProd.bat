@@ -1,1 +1,1 @@
-hugo -D --destination E:\Hugo\Production\testdumps --baseURL https://examenus.in
+hugo -D --destination C:\Work\Deploys\Examenus --baseURL https://examenus.in

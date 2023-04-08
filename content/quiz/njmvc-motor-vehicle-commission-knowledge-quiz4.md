@@ -15,9 +15,7 @@ tags:
 ---
 
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz5/" >}}Next{{</prevbutton >}}
 {{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-4/" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz3/" >}}Previous{{</prevbutton >}}
 
 
 
@@ -191,6 +189,4 @@ tags:
 
 {{</quizdown >}}
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz5/" >}}Next{{</prevbutton >}}
 {{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-4/" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz3/" >}}Previous{{</prevbutton >}}

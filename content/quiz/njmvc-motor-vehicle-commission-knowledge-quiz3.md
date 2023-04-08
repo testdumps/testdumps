@@ -14,9 +14,7 @@ tags:
   - DMV
 ---
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz4/" >}}Next{{</prevbutton >}}
 {{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-3/" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz2/" >}}Previous{{</prevbutton >}}
 
 {{<quizdown>}}
 	---
@@ -204,6 +202,4 @@ tags:
 
 {{</quizdown >}}
 
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz4/" >}}Next{{</prevbutton >}}
 {{<quizbutton linksrc="../../blog/njmvc-motor-vehicle-commission-knowledge-test-3/" >}}Show Qustions & Answers{{</quizbutton >}}
-{{<prevbutton linksrc="njmvc-motor-vehicle-commission-knowledge-quiz2/" >}}Previous{{</prevbutton >}}
